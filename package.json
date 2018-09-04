@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "this is shop appication for makeup using Express, node and SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imanmahjoubi/Node-Sql.git"
+  },
+  "author": "Imen Mahjoubi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imanmahjoubi/Node-Sql/issues"
+  },
+  "homepage": "https://github.com/imanmahjoubi/Node-Sql#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
