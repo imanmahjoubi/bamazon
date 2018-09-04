@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/imanmahjoubi/Node-Sql.git"
+    "url": "git+ssh://git@github.com:imanmahjoubi/bamazon.git"
   },
   "author": "Imen Mahjoubi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imanmahjoubi/Node-Sql/issues"
+    "url": "https://github.com/imanmahjoubi/bamazon/issues"
   },
-  "homepage": "https://github.com/imanmahjoubi/Node-Sql#readme",
+  "homepage": "https://github.com/imanmahjoubi/bamazon#readme",
   "dependencies": {
     "express": "^4.16.3",
     "inquirer": "^6.2.0",
