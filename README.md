@@ -20,11 +20,8 @@
 ![alt text](s3.png)
 ![alt text](s4.png)
 ![alt text](s5.png)
-![alt text](s6.png)
 ![alt text](s7.png)
-![alt text](s8.png)
 ![alt text](s9.png)
-![alt text](s10.png)
 ![alt text](s11.png)
 
 
